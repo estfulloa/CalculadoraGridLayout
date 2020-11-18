@@ -5,7 +5,7 @@
         <item name="android:gravity">center</item>
         <item name="android:textSize">30sp</item>
         <item name="android:clickable">true</item>
-        <item name="android:background">#932083</item>
+        <item name="android:background">#B57291</item>
         <item name="android:foreground">?android:attr/selectableItemBackground</item>
         <item name="android:focusable">true</item>
         <item name="android:layout_height">wrap_content</item>

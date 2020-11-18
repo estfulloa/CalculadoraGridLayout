@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculadoraGridLayout</string>
+    <string name="app_name">Calculadora</string>
     <string name="result_init">0</string>
     <!-- numeros -->
     <string name="num1">1</string>
