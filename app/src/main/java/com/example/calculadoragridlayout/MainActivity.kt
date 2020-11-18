@@ -60,6 +60,7 @@ class MainActivity : AppCompatActivity() {
       when(boton.text){
           "+"->{
               suma= true
+
               resta=false
               //para rescatar el numero anterior
               numeroAnterior= txtResult.text.toString().toInt()
